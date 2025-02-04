@@ -1,5 +1,9 @@
 or bhai kya haal chaal
 mahima
 mohit
+<<<<<<< HEAD
 le bhai kr diya change
 le hta dia tera change
+=======
+okay
+>>>>>>> 2e67698 (message)
