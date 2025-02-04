@@ -2,10 +2,10 @@ or bhai kya haal chaal
 
 
 le bhai kr diya change
+
 le hta dia tera change
 
 
 le bhai kr diya change
->>>>>>> 0bacfa3 (new commit)
->>>>>>> 535ce61 (new commit)
 
+made some changes
